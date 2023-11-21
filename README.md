@@ -1,2 +1,5 @@
-# prepcourse-henry
-este es un repositorio del modulo2 del prepcourse de henry
+este es un proyecto de como crear un repositorio desde github a mi computadora
+
+
+
+
